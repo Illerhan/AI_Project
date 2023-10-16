@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/AI_Project/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/AI_Project/Content/SuperLevel.umap",
+				"E:/AI_Project/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset",
+				"E:/AI_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"E:/AI_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/AI_Project/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"E:/AI_Project/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"E:/AI_Project/Content/Weapon/Rifle.uasset",
+				"E:/AI_Project/Content/Weapon/MagGun_MatA_Inst3.uasset",
+				"E:/AI_Project/Content/Weapon/MagGun_MatB_Inst2.uasset",
+				"E:/AI_Project/Content/Weapon/MagGun_SightLens_Mat_Inst.uasset",
+				"E:/AI_Project/Content/Weapon/Rifle_Skeleton.uasset",
+				"E:/AI_Project/Content/Weapon/Rifle_PhysicsAsset.uasset",
+				"E:/AI_Project/Content/Blueprints/BP_Rifle.uasset",
+				"E:/AI_Project/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset",
+				"E:/AI_Project/Content/AnimStarterPack/UE4_Mannequin/Animation/Equip_Rifle_Standing.uasset",
+				"E:/AI_Project/Content/AnimStarterPack/UE4_Mannequin/Animation/Fire_Shotgun_Hip.uasset",
+				"E:/AI_Project/Content/AnimStarterPack/UE4_Mannequin/Animation/Idle_Rifle_Hip.uasset",
+				"E:/AI_Project/Content/AnimStarterPack/UE4_Mannequin/Animation/Reload_Rifle_Ironsights.uasset",
+				"E:/AI_Project/Content/AnimStarterPack/UE4_Mannequin/Animation/Death_1.uasset",
+				"E:/AI_Project/Content/Weapon/Metal_Chrome.uasset",
+				"E:/AI_Project/Content/Weapon/bullet.uasset",
+				"E:/AI_Project/Content/Weapon/Gold_1_faked_ref.uasset",
+				"E:/AI_Project/Content/Blueprints/BP_bullet.uasset"
+			]
+		}
+	]
+}
